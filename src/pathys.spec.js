@@ -5,7 +5,7 @@ const chai = require('chai');
 
 const expect = chai.expect;
 
-const pathy = require('./pathy');
+const pathy = require('./pathys');
 
 describe('#pathy', () => {
   it('should be a function', () => expect(typeof pathy).to.equal('function'));

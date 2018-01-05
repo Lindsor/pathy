@@ -1,8 +1,8 @@
 {
-  "name": "pathy",
+  "name": "pathys",
   "version": "0.0.1",
   "description": "Small module that lets you lookup the path to a given property.",
-  "main": "src/pathy.js",
+  "main": "src/pathys.js",
   "scripts": {
     "test": "nyc mocha **/*.spec.js",
     "lint": "eslint . --fix",
